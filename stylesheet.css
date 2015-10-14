@@ -1,0 +1,20 @@
+#header{
+  background-color: #FF0000;
+  color: #FEFEFE;
+  text-align:center;
+  padding: 20px;
+  font-size:55px;
+  text-decoration:underline;
+  top: 150;
+  width: 100%;
+  position:absolute;
+}
+#nav{
+  width: 8%;
+  background-color: #FF0000;
+  height: 100%;
+  list-style: none;
+  left:0%;
+  right: 75%;
+  position:absolute;
+}
